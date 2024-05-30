@@ -1,5 +1,3 @@
-use std::time::{Duration, Instant};
-
 mod script;
 mod rsa;
 mod primos;
