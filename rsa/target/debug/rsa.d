@@ -1,1 +1,0 @@
-/home/leonardo-ribeiro/CHAT/rsa/target/debug/rsa: /home/leonardo-ribeiro/CHAT/rsa/src/aux.rs /home/leonardo-ribeiro/CHAT/rsa/src/compactar.rs /home/leonardo-ribeiro/CHAT/rsa/src/main.rs /home/leonardo-ribeiro/CHAT/rsa/src/primos.rs /home/leonardo-ribeiro/CHAT/rsa/src/rsa.rs /home/leonardo-ribeiro/CHAT/rsa/src/script.rs
