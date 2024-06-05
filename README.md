@@ -4,7 +4,7 @@
 
 Este é um programa em Rust que implementa o algoritmo de criptografia RSA. RSA é um dos primeiros algoritmos de criptografia de chave pública e é amplamente utilizado para comunicações seguras na Internet, incluindo transações online e autenticação de usuários.
 
-O programa consiste em quatro funções principais que são recebidas através de um arquivo de texto chamado "init". Essas funções permitem gerar pares de chaves RSA, remover chaves existentes, criptografar mensagens ASCII e decodificar mensagens criptografadas.
+O programa consiste em quatro funções principais que são recebidas através de um arquivo de texto que é chamado como argumento do programa. Essas funções permitem gerar pares de chaves RSA, remover chaves existentes, criptografar mensagens ASCII e decodificar mensagens criptografadas.
 
 ## Funcionalidades
 
