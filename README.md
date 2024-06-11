@@ -6,6 +6,29 @@ Este é um programa em Rust que implementa o algoritmo de criptografia RSA. RSA 
 
 O programa consiste em quatro funções principais que são recebidas através de um arquivo de texto que é chamado como argumento do programa. Essas funções permitem gerar pares de chaves RSA, remover chaves existentes, criptografar mensagens ASCII e decodificar mensagens criptografadas.
 
+## Compilação
+
+Para compilar e rodar o programa de criptografia RSA em Rust, siga os passos abaixo:
+
+### Instalação do Cargo
+
+Cargo é o sistema de build e gerenciamento de pacotes do Rust. Para instalar o Cargo e o Rust, siga estas instruções:
+
+1. **Instalando o Rustup**: Rustup é uma ferramenta de linha de comando para gerenciar as instalações do Rust. Ele facilita a instalação e a atualização do Rust e do Cargo.
+
+   - No Linux ou macOS, abra um terminal e execute:
+     ```sh
+     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+     ```
+
+   - No Windows, baixe e execute o instalador do Rust disponível em: [Rustup - Instalação](https://rustup.rs/)
+
+2. **Siga as instruções do instalador**: Após executar o comando acima, siga as instruções na tela para completar a instalação. Isso inclui adicionar o Cargo e o Rust ao seu PATH.
+
+3. **Verifique a instalação**: Após a instalação, feche e reabra o terminal, então verifique se o Cargo foi instalado corretamente executando:
+   ```sh
+   cargo --version
+
 ## Funcionalidades
 
 ### GEN_CHAVE
